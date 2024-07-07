@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "923112657705"
+global.ownername = "Faisal udas"
+global.ytname = "Faisal uddas"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '923112657705,923037484167,923112657705'  //creator number
+global.ownername = 'Faisal udas' //owner name
+global.botname = '🕷Faisal-2🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'faisal udas'
+global.author = 'David_Cyril\n\nContact: +923112657705'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "Faisal Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
@@ -30,10 +30,10 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true//auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
@@ -58,7 +58,7 @@ global.mess = {
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
+    public: 'This feature is only for public chats',
     wait: 'In process... ',    
     error: 'Error!',
 }
